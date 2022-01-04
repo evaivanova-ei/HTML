@@ -1,0 +1,47 @@
+body{
+	background-color: black;
+	color:white;
+}
+.naslov{
+	padding: 10px;
+	text-align: center;
+	color:	 #ff9999;
+}
+.centar_1{
+
+text-align: center;
+color: #ffe6e6;
+}
+.centar_2{
+	text-align: right;
+	color:#ffcccc;
+}
+
+.centar_3{
+	color:#ffb3b3;
+}
+.centar_4{
+	text-align: center;
+color:#ff9999
+
+}
+.centar_5{
+	text-align: right;
+    color:#ff8080
+}
+.centar_6{
+	color:#ff6666;
+}
+.centar_7{
+	text-align: center;
+	color:#ff4d4d;
+}
+.centar_8{
+	text-align: right;
+	color:#ff3333;
+}
+.img img{
+	height: 266px;
+	width: 266px;
+	float:left;
+}

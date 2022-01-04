@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+}
+.card{
+    margin: 10px;
+	width: 200px;
+	height: 300px;
+   color: white;
+    float:left;
+    box-shadow: 2px 5px 30px 0px rgba(0,0,0,0.75);
+    display: inline-block;
+}
+
+.card_img img{
+	width: 200px;
+	height: 300px;
+}
+.img img{
+
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin: 120px;
+	padding: 1px;
+}
